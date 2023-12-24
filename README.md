@@ -4,8 +4,9 @@
 
 ### I. Thông tin nhóm:
 
-- Tên nhóm: `SEHocData`
 - Lớp: 21KHDL1
+- Tên nhóm: `SEHocData`
+- Thành viên:
 
 | MSSV     | Họ tên            | Email                     |
 | -------- | ----------------- | ------------------------- |
