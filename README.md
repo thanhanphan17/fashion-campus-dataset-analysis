@@ -1,6 +1,6 @@
 # PROGRAMMING FOR DATA SCIENCE - CSC17104_21KHDL1 - FITHCMUS
 
-## Final Project - Thu thập, phân tích cho trả lời câu hỏi về bộ dữ liệu MyAnimeList
+## Final Project
 
 ### I. Thông tin nhóm:
 
