@@ -21,7 +21,7 @@ Bộ dữ liệu [Fashion Campus E-commerce Transactional Dataset](https://www.k
 
 #### **_02. Meaningful questions:_**
 
-##### **_02.1. Question number 1: `What is the distribution of customer on avarage spending money and most favourite item by demographics?`_**
+##### **_02.1. Question number 1: `By demographics, what is Customer Segment contributed the most on Avarage Spending Money and their most Favourite Item?`_**
 
 - **Nội dung**: Phân bố khách hàng theo độ tuổi và giới tính, số tiền mua trung bình theo nhóm tuổi hoặc giới tính và các loại sản phẩm phổ biến nhất ở các nhóm tuổi hoặc giới tính khác nhau.
 - **Mục đích**: Chúng ta sẽ hiểu hơn về khách hàng, một số yếu tố như độ tuổi, giới tính và loại sản phẩm có thể tác động mạnh tới doanh thu công ty Fashion Campus.
@@ -44,7 +44,7 @@ Bộ dữ liệu [Fashion Campus E-commerce Transactional Dataset](https://www.k
 
 #### **_03. Questions analysis:_**
 
-##### **_03.1. Question number 1: `What is the distribution of customer on avarage spending money and most favourite item by demographics?`_**
+##### **_03.1. Question number 1: `By demographics, what is Customer Segment contributed the most on Avarage Spending Money and their most Favourite Item?`_**
 
 - **Phân tích**:
 
