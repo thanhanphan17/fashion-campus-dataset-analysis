@@ -1,9 +1,9 @@
 # PROGRAMMING FOR DATA SCIENCE - CSC17104_21KHDL1 - FITHCMUS
 
-## Final Project
+## Final Project nhóm `SEHocData`
 
 ### I. Thông tin nhóm:
-
+- Tên nhóm: `SEHocData`
 - Lớp: 21KHDL1
 
 | MSSV     | Họ tên            | Email                     |
